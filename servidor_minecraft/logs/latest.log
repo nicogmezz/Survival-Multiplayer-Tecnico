@@ -1,0 +1,72 @@
+[15:46:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:46:39] [ServerMain/INFO]: Loaded 1337 recipes
+[15:46:39] [ServerMain/INFO]: Loaded 1448 advancements
+[15:46:40] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[15:46:40] [Server thread/INFO]: Loading properties
+[15:46:40] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:40] [Server thread/INFO]: Generating keypair
+[15:46:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:46:40] [Server thread/INFO]: Using epoll channel type
+[15:46:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:46:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:46:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:46:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:46:40] [Server thread/INFO]: Preparing level "world"
+[15:46:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:46:48] [Server thread/INFO]: Time elapsed: 7079 ms
+[15:46:48] [Server thread/INFO]: Done (7.424s)! For help, type "help"
+[15:47:45] [Server thread/INFO]: Seed: [-7889924441356621073]
+[15:47:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:47:50] [Server thread/INFO]: Dytro_9[/[0:0:0:0:0:0:0:1%0]:41350] logged in with entity id 8 at (72.40390737553079, 65.0, -1770.8234010824522)
+[15:47:50] [Server thread/INFO]: Dytro_9 joined the game
+[15:48:06] [Server thread/INFO]: UrtryBlade[/[0:0:0:0:0:0:0:1%0]:38046] logged in with entity id 453 at (-30.24894459511593, 84.0, 330.69999998807907)
+[15:48:07] [Server thread/INFO]: UrtryBlade joined the game
+[16:07:09] [Server thread/INFO]: [Not Secure] <Dytro_9> mi pico
+[16:07:13] [Server thread/INFO]: [Not Secure] <UrtryBlade> no
+[16:07:19] [Server thread/INFO]: [Not Secure] <UrtryBlade> voy a ir a la mina ahora
+[16:07:32] [Server thread/INFO]: [Not Secure] <Dytro_9> dame mi pico
+[16:07:35] [Server thread/INFO]: [Not Secure] <UrtryBlade> no
+[16:07:37] [Server thread/INFO]: [Not Secure] <Dytro_9> hazte tu uno
+[16:07:49] [Server thread/INFO]: [Not Secure] <UrtryBlade> no hay fortnua
+[16:07:52] [Server thread/INFO]: [Not Secure] <Dytro_9> o me haces uno para mañana
+[16:08:04] [Server thread/INFO]: [Not Secure] <Dytro_9> yo lo saque de la mesa de enchants
+[16:08:05] [Server thread/INFO]: [Not Secure] <UrtryBlade> te devuelvo el tuyo como nuevo y con mending
+[16:08:10] [Server thread/INFO]: [Not Secure] <Dytro_9> ok
+[16:08:22] [Server thread/INFO]: [Not Secure] <Dytro_9> me piro
+[16:08:25] [Server thread/INFO]: [Not Secure] <UrtryBlade> dle
+[16:08:29] [Server thread/INFO]: [Not Secure] <Dytro_9> bye
+[16:08:52] [Server thread/INFO]: Dytro_9 lost connection: Timed out
+[16:08:52] [Server thread/INFO]: Dytro_9 left the game
+[16:08:52] [Server thread/WARN]: handleDisconnection() called twice
+[16:15:24] [Server thread/INFO]: UrtryBlade lost connection: Disconnected
+[16:15:24] [Server thread/INFO]: UrtryBlade left the game
+[16:15:24] [Server thread/WARN]: handleDisconnection() called twice
+[16:16:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:16:59] [Server thread/INFO]: UrtryBlade[/[0:0:0:0:0:0:0:1%0]:39688] logged in with entity id 10410 at (-106.51029118589133, 41.0, -2034.699999988079)
+[16:16:59] [Server thread/INFO]: UrtryBlade joined the game
+[16:49:53] [Server thread/INFO]: Stopping the server
+[16:49:54] [Server thread/INFO]: Stopping server
+[16:49:54] [Server thread/INFO]: Saving players
+[16:49:54] [Server thread/INFO]: Saving worlds
+[16:49:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:50:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:50:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
